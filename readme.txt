@@ -5,7 +5,7 @@ URI:
 Tags: widget, wikipedia, article on medal, wikipedia widget
 Requires at least: 2.8.0
 Tested up to: 4.0.1
-Stable tag: 1.0.2
+Stable tag: 1.0
 PHP Version: 5.2.9
 MySql Version: 5.0.91-community
 Author: Piotr Pesta
