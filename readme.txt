@@ -1,17 +1,17 @@
 === Plugin Name ===
 Plugin Name: Wiki on Medal
-Version: 1.0.0
 Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, article on medal, wikipedia widget
+Author URI: http://smartfan.pl/
+Author: Piotr Pesta
 Requires at least: 2.8.0
 Tested up to: 4.0.1
 Stable tag: 1.0.0
-PHP Version: 5.2.9
-Author: Piotr Pesta
+Version: 1.0.0
 
 == Description ==
 
-Wiki on Medal lets your users know see article on medal from Wikipedia. Supported languages so far: Deutsch, Polish, English.
+Wiki on Medal lets your users see article on medal from Wikipedia. Supported languages so far: Deutsch, Polish, English. More languages in the future.
 
 == Installation ==
 
