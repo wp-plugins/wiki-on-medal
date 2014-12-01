@@ -3,11 +3,11 @@ Plugin Name: Wiki on Medal
 Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, article on medal, wikipedia widget
 Author: Piotr Pesta
-License: GPLv2 or later
 Requires at least: 2.8.0
 Tested up to: 4.0.1
 Stable tag: 1.0.0
-Version: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Wiki on Medal is a wdget that lets your visitors to see article on medal from Wikipedia.
 
@@ -26,5 +26,5 @@ Or just add .zip file as a new plugin in your Wordpress administration panel.
 
 
 == Changelog ==
-* 1.0
+* 1.0.0
 Initial Release
