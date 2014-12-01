@@ -24,6 +24,9 @@ Wiki on Medal is a widget that lets your visitors to see article on medal from W
 
 Or just add .zip file as a new plugin in your Wordpress administration panel.
 
+== Screenshots ==
+
+1. Wiki on Medal on right block.
 
 == Changelog ==
 * 1.0.0
