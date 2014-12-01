@@ -1,7 +1,7 @@
 === Wiki on Medal ===
 Plugin Name: Wiki on Medal
 Plugin URI: http://smartfan.pl/
-Tags: widget, wikipedia, article on medal, wikipedia widget
+Tags: widget, wikipedia, article on medal, wikipedia widget, featured article
 Author: Piotr Pesta
 Requires at least: 2.8.0
 Tested up to: 4.0.1
@@ -9,11 +9,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Wiki on Medal is a widget that lets your visitors to see article on medal from Wikipedia.
+Wiki on Medal is a widget that lets your visitors to see article on medal (featured article) from Wikipedia.
 
 == Description ==
 
-Wiki on Medal is a widget that lets your visitors to see article on medal from Wikipedia. Supported languages so far: Deutsch, Polish, English. More languages in the future.
+Wiki on Medal is a widget that lets your visitors to see article on medal (featured article) from Wikipedia. Supported languages so far: Deutsch, Polish, English. More languages in the future.
 
 == Installation ==
 
