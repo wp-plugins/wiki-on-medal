@@ -1,5 +1,6 @@
 === Wiki on Medal ===
 Contributors: Piotr Pesta
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG
 Plugin Name: Wiki on Medal
 Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, article on medal, wikipedia widget, featured article
