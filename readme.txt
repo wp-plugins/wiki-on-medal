@@ -1,12 +1,12 @@
 === Wiki on Medal ===
 Contributors: Piotr Pesta
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG&lc=US
 Plugin Name: Wiki on Medal
 Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, article on medal, wikipedia widget, featured article
 Author: Piotr Pesta
 Requires at least: 2.8.0
-Tested up to: 4.2.1
+Tested up to: 4.2
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -17,7 +17,7 @@ Wiki on Medal is a widget that lets your visitors to see article on medal (featu
 
 Wiki on Medal is a widget that lets your visitors to see article on medal (featured article) from Wikipedia. Supported languages so far: Deutsch, Polish, English. More languages in the future.
 
-If you would like to show your support for this software, please consider donating: [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG).
+If you would like to show your support for this software, please consider donating: [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG&lc=US).
 
 == Installation ==
 
