@@ -4,7 +4,7 @@ Plugin Name: Wiki on Medal
 Plugin URI: http://smartfan.pl/
 Description: Widget that shows article on medal from Wikipedia.
 Author: Piotr Pesta
-Version: 1.0.1
+Version: 1.1.0
 Author URI: http://smartfan.pl/
 License: GPL12
 */
@@ -70,13 +70,16 @@ echo $before_title . $title . $after_title;
 }
 
 if ($languages == 1) {
-	wikiEN();
+	$f = new wikiLeechMedal('http://en.wikipedia.org/wiki/Main_Page');
+	$f->showWikiMedal('featured article', '\(Full');
 }
 elseif ($languages == 2) {
-	wikiDE();
+	$f = new wikiLeechMedal('http://de.wikipedia.org/wiki/Wikipedia:Hauptseite');
+	$f->showWikiMedal('des Tages', '– Zum');
 }
 else {
-	wikiPL();
+	$f = new wikiLeechMedal('http://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna');
+	$f->showWikiMedal('medal', 'Czytaj');
 }
 
 echo $after_widget;
